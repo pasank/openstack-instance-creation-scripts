@@ -1,0 +1,1 @@
+Shell scripts to automate creation of OpenStack Cloud Virtual Machines given list of public key files from users. Validates and injects provided OpenSSH public key file of user (as well as predetermined 'master' key files) using cloud-init scripts on instance creation. 
